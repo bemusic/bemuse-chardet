@@ -3,14 +3,7 @@
   "version": "0.0.8",
   "homepage": "https://github.com/bemusic/bemuse-chardet",
   "description": "Fork of chardet for use in bemuse",
-  "keywords": [
-    "encoding",
-    "character",
-    "utf8",
-    "detector",
-    "chardet",
-    "icu"
-  ],
+  "keywords": [],
   "author": "Dmitry Shirokov <deadrunk@gmail.com>",
   "devDependencies": {
     "mocha": ">= 1.8"
