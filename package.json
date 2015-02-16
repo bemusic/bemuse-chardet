@@ -1,8 +1,8 @@
 {
-  "name": "chardet",
+  "name": "bemuse-chardet",
   "version": "0.0.8",
-  "homepage": "https://github.com/runk/node-chardet",
-  "description": "Character detector",
+  "homepage": "https://github.com/bemusic/bemuse-chardet",
+  "description": "Fork of chardet for use in bemuse",
   "keywords": [
     "encoding",
     "character",
@@ -17,11 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:runk/node-chardet.git"
-  },
-  "bugs": {
-    "mail": "deadrunk@gmail.com",
-    "url": "http://github.com/runk/node-chardet/issues"
+    "url": "git@github.com:bemusic/bemuse-chardet.git"
   },
   "scripts": {
     "test": "mocha -R spec --recursive"
